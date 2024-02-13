@@ -1,5 +1,5 @@
 <h1 align="center">iFuzz Introduction</h1>
-<h3 align="center">My name is iFuzz, not very good at technology and coding, but I like it My Wife : Fiola 💌 keep it simple and use linux :)</h3>
+<h3 align="center">My name is iFuzz, im not very good at technology and coding, but I like it My Wife : Fiola 💌 keep it simple and use linux :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifuzz1337&label=Profile%20views&color=0e75b6&style=flat" alt="ifuzz1337" /> </p>
 
